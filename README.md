@@ -4,10 +4,14 @@ This project is part of my DecodeLabs internship.
 
 It includes:
 index.html (main page)
+
 style.css (styling)
+
 images/ (assets)
 
 Features
 Responsive design
+
 Clean layout
+
 Beginner-friendly HTML & CSS
